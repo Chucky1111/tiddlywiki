@@ -1,0 +1,10 @@
+Modern.TiddlyDev#SHA256-Hashed: 6f96865d0d76ef39da6e0269a8256bde7a1e16be6c0a9962ec576ca4887b5cfe
+author: linonetwo
+dependents: 
+description: Task Management Ontology for SuperTag. 任务管理本体，用于超级标签。
+list: readme TMO tree
+name: tmo
+plugin-type: plugin
+title: $:/plugins/linonetwo/tmo
+type: application/json
+version: 0.1.0

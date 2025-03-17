@@ -1,0 +1,11 @@
+Modern.TiddlyDev#SHA256-Hashed: da47729862c6f175a7c165d07a9274f85841d368e91e1a16675095fae2fc4357
+author: LinOnetwo
+core-version: >=5.3.0
+dependents: $:/plugins/kixam/datepicker $:/plugins/tiddlywiki/browser-sniff $:/plugins/linonetwo/tag-tree-picker-macro $:/plugins/linonetwo/title-caption
+description: Widget and Page Layout displaying tiddlers on calendar and agenda, based on created, modified, startDate and endDate fields.
+list: readme config tree
+name: Calendar
+plugin-type: plugin
+title: $:/plugins/linonetwo/tw-calendar
+type: application/json
+version: 1.6.0

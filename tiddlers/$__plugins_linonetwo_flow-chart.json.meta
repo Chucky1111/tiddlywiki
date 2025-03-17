@@ -1,0 +1,12 @@
+Modern.TiddlyDev#ExternalModules: react react-dom
+Modern.TiddlyDev#SHA256-Hashed: ad581b2db3f44e093cf582dde4382d0bc941ce71b844f716326bb96654228afc
+author: LinOnetwo
+core-version: >=5.1.22
+dependents: $:/plugins/linonetwo/tw-react
+description: Building workflow editors, flow charts and diagrams, with reaviz/reaflow
+list: readme
+name: flow-chart
+plugin-type: plugin
+title: $:/plugins/linonetwo/flow-chart
+type: application/json
+version: 0.1.2

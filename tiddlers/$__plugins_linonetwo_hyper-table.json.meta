@@ -1,0 +1,11 @@
+Modern.TiddlyDev#SHA256-Hashed: 6a88439f5280b543d6de22c77e6539fdd1b71df4fe7f0aa905b614b8ea8336bb
+author: LinOnetwo
+core-version: >=5.1.22
+dependents: 
+description: Present large amounts of data beautifully and efficiently, generate pivot tables and other advanced table presentations for tiddlers.
+list: readme ParametersTable tree
+name: High-Dimensional Tables 高维表格
+plugin-type: plugin
+title: $:/plugins/linonetwo/hyper-table
+type: application/json
+version: 1.1.0

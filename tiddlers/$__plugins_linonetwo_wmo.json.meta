@@ -1,0 +1,10 @@
+Modern.TiddlyDev#SHA256-Hashed: dc1f9a89283f9b3d18a108b2c7fb3103e101095748ff10802086a38e73a608e5
+author: linonetwo
+dependents: 
+description: TiddlyWiki Common/Consensus Metadata Ontology. I18n for fields like `title` `caption` `modified`.
+list: readme tree
+name: wmo
+plugin-type: plugin
+title: $:/plugins/linonetwo/wmo
+type: application/json
+version: 0.0.1

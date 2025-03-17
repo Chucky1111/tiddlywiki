@@ -1,0 +1,11 @@
+Modern.TiddlyDev#SHA256-Hashed: 2da9b66ac9b7fd8d4bfe5aa16a2ad40d7069e403027ccf090648584b467b183c
+author: LinOnetwo
+core-version: >=5.1.22
+dependents: 
+description: Finds out where a tiddler originates from, is it in a tag tree with xxx as root?
+list: readme
+name: in-tagtree-of
+plugin-type: plugin
+title: $:/plugins/linonetwo/in-tagtree-of
+type: application/json
+version: 0.2.0

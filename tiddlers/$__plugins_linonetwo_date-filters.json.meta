@@ -1,0 +1,10 @@
+Modern.TiddlyDev#SHA256-Hashed: 7d40861a25478d8af069c910c16e846564eec7b1c0e757287e6bb6415c9bb05a
+author: linonetwo
+dependents: 
+description: Filters for getting week range and preparing visualization data.
+list: readme
+name: date-filters
+plugin-type: plugin
+title: $:/plugins/linonetwo/date-filters
+type: application/json
+version: 1.1.0
